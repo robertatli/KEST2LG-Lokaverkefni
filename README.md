@@ -1,5 +1,8 @@
 # Lokaverkefni KEST2LG - Linux Kerfisstjórnun
 
+## Myndir af verkefni
+https://github.com/robertatli/KEST2LG-Lokaverkefni/wiki/Myndir-af-verkefni
+
 ### 25.11.2019
 * Byrjuðum á að setja upp serverinn.
 * Settum upp ip addressuna, hostname á serverinum og domain name.
