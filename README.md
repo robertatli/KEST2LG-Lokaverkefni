@@ -1,7 +1,6 @@
 # Lokaverkefni KEST2LG - Linux Kerfisstjórnun
 
-## Myndir af verkefni
-https://github.com/robertatli/KEST2LG-Lokaverkefni/wiki/Myndir-af-verkefni
+## <a href="https://github.com/robertatli/KEST2LG-Lokaverkefni/wiki/Myndir-af-verkefni">Myndir af verkefni</a>
 
 ### 25.11.2019
 * Byrjuðum á að setja upp serverinn.
