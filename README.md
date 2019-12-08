@@ -17,3 +17,14 @@
 * Kláruðum að setja upp ssh
 * Kláruðum að setja upp phpmyadmin og mysql
 * Kláruðum að setja upp accounts fyrir IT og Management í mysql
+* Kláruðum að setja upp Postfix mail server og mailman mailing lists
+* Kláruðum að setja upp PurFTPd og Quota
+* Búnir að setja upp Apache 2 án ssl certificate
+* Settum upp Squirrel mail
+
+### 8.12.2019
+* Löguðum mySQL vegna Maria-DB
+* Reyndum að setja upp ISPConfig-3, það eyðilagði apache2
+* vegna þess að apache2 virkar ekki þá komumst við ekki inná phpmyadmin eða Squirrel mail
+* Löguðum apache2 
+
